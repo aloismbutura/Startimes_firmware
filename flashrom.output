@@ -1,0 +1,10 @@
+flashrom v0.9.8-r1888 on Linux 3.18.11+ (armv6l)
+flashrom is free software, get the source code at http://www.flashrom.org
+
+Calibrating delay loop... OK.
+Found Macronix flash chip "MX25L6405" (8192 kB, SPI) on linux_spi.
+Found Macronix flash chip "MX25L6405D" (8192 kB, SPI) on linux_spi.
+Found Macronix flash chip "MX25L6406E/MX25L6408E" (8192 kB, SPI) on linux_spi.
+Found Macronix flash chip "MX25L6436E/MX25L6445E/MX25L6465E/MX25L6473E" (8192 kB, SPI) on linux_spi.
+Multiple flash chip definitions match the detected chip(s): "MX25L6405", "MX25L6405D", "MX25L6406E/MX25L6408E", "MX25L6436E/MX25L6445E/MX25L6465E/MX25L6473E"
+Please specify which chip definition to use with the -c <chipname> option.

@@ -1,0 +1,374 @@
+ !"#$%&'()*+,-./0123456789:;<=>?
+9$9"9&CeVaP2
+______STAPI_SDK_ROMIMAGE______
+"cFb)#Fb-CFb+#
+@olr#%FZ;	
+ST40 bootvector (hdk5289stx5206
+ST40 bootstrap (hdk5289stx5206)
+*Bootstrap done*
+Err: No boot img
+Err: Corrupt img
+Err: Load failed
+3d(t"$3d8t"$3dHt"$3d4t"$
+"cFb)#Fb-CFb+#
+dQx1!A!A,1
+>L>\>l>|><>,>
+>L>\>l>|><>,>
+%z%:%S`)@Sa
+$z$:$C`)@Ca
+RSA key error code reports:
+	bad_signature
+	bad_keyid
+	keytable_full
+	rsa_keys_0_fail
+SigDMA error code reports:
+	struct_sig_fail
+	data_sig_fail
+	bad_config_keyid
+	bad_data_keyid
+	buffer_overflow
+	unsupported
+Signature check error code reports:
+	srd_sig_fail
+	region_sig_fail
+	background_fail
+	invalid_command
+	cid_error
+	cpu_error
+	bad_srd_keyid
+	bad_code_keyid
+	bad_check_type
+	i_slot_error
+	d_slot_error
+	mes_overflow
+	backgnd_overflow
+	bfr_sysinit_size_fail
+	bfr_sysinit_sig_fail
+	bfr_sysinit_fail
+	pause_limit
+	pause_queued
+	encrypt_error
+WARNING: Cryptocore failure source register is non-zero
+	sigchk_fail_hash
+	sigchk_fail_stc
+	sigchk_fail_vcc
+	mes_exception_fail
+	flash_exception_fail
+	acg_exception_fail
+	sigdma_fail_hash
+	sigdma_fail_stc
+	sigdma_fail_vcc
+	parity_exception_fail
+	core0_ifetch_fail
+	core1_ifetch_fail
+	core2_ifetch_fail
+	core3_ifetch_fail
+	core4_ifetch_fail
+	core5_ifetch_fail
+	core6_ifetch_fail
+	core7_ifetch_fail
+cryptocore.c:2368: Issuing revoke RSA key request...
+detected failure
+cryptocore.c:2024: Issuing remove slot request...
+cryptocore.c:890: Not issuing Cryptocore pause request as queue may be full
+cryptocore.c:898: Not issuing Cryptocore pause request as may have reached limit for this background check cycle
+cryptocore.c:907: Issuing Cryptocore pause request...
+cryptocore.c:2301: Issuing add RSA key request...
+cryptocore.c:2230: Issuing SigDMA request...
+cryptocore.c:1913: Issuing use SRD request...
+incorrect header check
+unknown compression method
+invalid window size
+unknown header flags set
+header crc mismatch
+invalid block type
+invalid stored block lengths
+too many length or distance symbols
+invalid code lengths set
+invalid bit length repeat
+invalid code -- missing end-of-block
+invalid literal/lengths set
+invalid distances set
+invalid literal/length code
+invalid distance code
+invalid distance too far back
+incorrect data check
+incorrect length check
+ inflate 1.2.5 Copyright 1995-2010 Mark Adler 
+ST40 LED example (hdk5289stx520
+g)/^T.O=iC
+/U#pip|mg8Q
+Kpey?=UR_%
+V,=>#~z|V<Z
+Sf:@<C<K<G
+H2&M-ar5qv
+G1[J~Ehoke
+$mSRh.m.mJn
+SEv!&J;	a(m<
+dZY"Z?Jf#:
+alb\CMC5S}
+M~@\=1;	0gvu
+kU}5y^t>"e+
+d59KDfe!/m
++wd/\cFlp-
+]|Gd&;Ef"'1 
+8S|qg)&bm'
+oFkQ5\\,dnpS
+N)HJ3k'k;p
+1ER)9wLrKC'
+ZpORVgV49`
+zg=	gV_J5T	V
+-8=!9+,$2,$
+0tt``BzzJz`
+/.eJjrBfB|V
+5-5>&3!+5&=fJ
+-<*9! `aiQ^
+8,($$$4,44,,l
+uprs9khmg;i
+YZFbJLFRC*K
+uVrbBf\RVFz\
+a|qqYVQqIV^Ai
+oxxxXXXhhhHHHpp
+V!T"T!T#l@
+!l(#PAf2T0
+r qD@$Hqj9
+T4<qzu!SqF
+;V$-Xj(-k.
+9`nY>0dD*?
+f+N{"DSHu$
+{9a4]Z8#VoSr
+('Kd1mz%>C
+!'H,/MZ/i5
+21Vy1&tHum
+!<e<-or8OfM
+%76:x11)Y=
+H+^9?tjiLT
+tMA/p0W[Wd
+t49O$d#kOz
+A~Cxxxs-jg[]
+-fsM+cXI(O
+AS<v-p@CGkXg%[
+}R ~qWk	_M
+1Bo'~Z6_S?
+#P	5`f&2	mn
+	<hf)"tmqi
+r#VsE@%UasnP
+Wv)D$U30#=I^mAMs
+!l(#PAf2T0
+r qD@$Hqj9
+T4<qzu!SqF
+;V$-Xj(-k.
+9`nY>0dD*?
+f+N{"DSHu$
+{9a4]Z8#VoSr
+('Kd1mz%>C
+!'H,/MZ/i5
+21Vy1&tHum
+!<e<-or8OfM
+%76:x11)Y=
+H+^9?tjiLT
+tMA/p0W[Wd
+t49O$d#kOz
+A~Cxxxs-jg[]
+-fsM+cXI(O
+AS<v-p@CGkXg%[
+}R ~qWk	_M
+1Bo'~Z6_S?
+#P	5`f&2	mn
+	<hf)"tmqi
+r#VsE@%UasnP
+Wv)D$U30#=I^mAMs
+wYTbz5sAKr<S&
+,a7sAz{N8j
+<j7EKIK\d	
+ L&+Z/Xwi"$l
+)>H9a;VZ3A
+1?zTHf=ex]
+emip*Ki%Da
+$m53<mjvm(U2R
+1LE$leb	Ir
+;~gMYamCw9
+'sKfl{L,?\
++nSBTyowEI
+TG*h^K,s:$
+_}-uM!]7*j
+?4l4bw?!f-
+B-c\9;!N?V
+_Ufr_}D5iT
+	P]Zeu+yM;T
+Y{6Xni1bUt
+w*nH&dkC 6
+;4Z:	BZTq=
+}U^Q)*hk(D
+n]fGN|\A(/
+eO]}KD9UX^
+J!jP5:Nqzx
+fn"_a5RVgm
+hym1Ym)v.I
+#m/3cH86r 
+<86NVu|NXd.G
+?w^zG,nV?B
+^<M0[&Aa5q+T
+a6!:xsFsHI
+\[q.BFwEFPH
+ypmZDNBfb&
+[_+nCD3mf1
+%yR%U"	x6hj
+jlO	u~\]LF
+N_@\Lm=w.2
+;[:#v"%(P!
+eM:=!%|I[D
+ib7\Gs)Qkd#!
+s(1<2F5NM<
+|o!dYqSxie
+X>RH275M}0#*%
+ExZkaf2Vxk_
+OTQt)gV!0N1'
+!~8o]9E2c4E
+.9[B;LlLl}0_
+ps>"nZ]a&E
+	yN~Vji DK
+>B_u	wJkt2
+fph>&8h*2:
+w"g2 MZ31>|
+0mOZQd:4KG
+N;5%gN)Z=8
++Nbs<O<3k\
+QZ/U$Q8~Y0GC
+syAOF9zhNo
+7U<Hr01;7'
+ya;}rvn:y-{
+?'n67!:4OP
+[$,M"FyLlXH
+I.tLeC{{'m
+.5-,<hbY~j
+R{DN{ou~RJb
+$*-9 E&Ya|!
+N>nc>-*qXA
+h9T0*!*hTS-
+W%"HGY0d[uxsv
+N>hv0\liR+
+|?l?@HOj\!O<
+ow`v@*5`:T
+t#%f^o<CDI
+~VxB>sqUU2X0z
+FL#G[bc_-y)
+	8f"bD )S9
+pQ!}wa1#z70"
+]N1rX13sCe
+8\M'h7>Nt=
+M?12QLOzUz6
+QzNO~U(jSH
+7'P=tZZB.<
+1H_Nz8<kVE
+)C*9\'?XK 
+*@_;atlaGM
+8No3yS)'tu
+%encoded by TMPGEnc (ver. 2.57.41.146)
+%encoded by TMPGEnc (ver. 2.57.41.146)
+%encoded by TMPGEnc (ver. 2.57.41.146)
+29552814514819312
+p2014-12-22
+29552814514819312
+p2014-12-22
+Program100
+Program101
+Program102
+Program103
+Program104
+Program105
+Program106
+Program107
+Program108
+Program109
+Program110
+Program111
+Program112
+Program113
+Program114
+Program115
+Program116
+Program117
+Program118
+Program119
+Program120
+Program121
+Program122
+Program123
+Program124
+Program125
+Program126
+Program127
+Program128
+Program129
+Program130
+Program131
+Program132
+Program133
+Program134
+Program135
+Program136
+Program137
+Program138
+Program139
+Program140
+Program141
+Program142
+Program143
+Program144
+Program145
+Program146
+Program147
+Program148
+Program149
+Program150
+Program151
+Program152
+Program153
+Program154
+Program155
+Program156
+Program157
+Program158
+Program159
+Program160
+Program161
+Program162
+Program163
+Program164
+Program165
+Program166
+Program167
+Program168
+Program169
+Program170
+Program171
+Program172
+Program173
+Program174
+Program175
+Program176
+Program177
+Program178
+Program179
+Program180
+Program181
+Program182
+Program183
+Program184
+Program185
+Program186
+Program187
+Program188
+Program189
+Program190
+Program191
+Program192
+Program193
+Program194
+Program195
+Program196
+Program197
+Program198
+Program199
+Program200
